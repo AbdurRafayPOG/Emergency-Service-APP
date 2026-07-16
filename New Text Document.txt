@@ -1,0 +1,9 @@
+public_emergency_app/build/
+public_emergency_app/.dart_tool/
+public_emergency_app/.flutter-plugins
+public_emergency_app/.flutter-plugins-dependencies
+public_emergency_app/android/.gradle/
+public_emergency_app/android/.kotlin/
+*.log
+hs_err_pid*
+replay_pid*
